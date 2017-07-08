@@ -1,0 +1,24 @@
+<board friction1="0.025" friction2="0.025" gravity="25.0" level="1">
+<ball x="5.75" xVelocity=".0" y="19.0" yVelocity=".5"/>
+<cezmi1 score="0.0" x="5.25" y="24.0"/>
+<cezmi2 score="0.0" x="17.75" y="24.0"/>
+<cezeryes>
+<cezerye time="4.998" x="13" y="4"/>
+</cezeryes>
+<gizmos>
+<triangleTakoz orientation="0" x="9" y="14"/>
+<triangleTakoz orientation="0" x="7" y="11"/>
+<triangleTakoz orientation="0" x="5" y="8"/>
+<triangleTakoz orientation="0" x="3" y="5"/>
+<triangleTakoz orientation="270" x="15" y="14"/>
+<triangleTakoz orientation="270" x="17" y="11"/>
+<triangleTakoz orientation="270" x="19" y="8"/>
+<triangleTakoz orientation="270" x="21" y="5"/>
+</gizmos>
+<keys>
+<key1left key="a"/>
+<key1right key="d"/>
+<key2left key="←"/>
+<key2right key="→"/>
+</keys>
+</board>
