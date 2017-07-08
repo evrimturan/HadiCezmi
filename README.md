@@ -77,15 +77,17 @@ Click the “Start” button to switch to run mode. If every player has 4 Gizmos
 
 <kbd>
   <img src="screenshots/game4.png">
-</kbd> <br>
+</kbd>
+<br><br>
 
 **3.1. Moving the Cezmis** <br>
 If not specified in the XML file, Player1 should press “a” and “d” keys to move his/her Cezmi to left and the right respectively. The keys for the Player2 are left arrow and right arrow. If the game is running on Level2, Cezmis can move on the wall as well. When they reach to the wall pressing the keys will move them vertically on the wall. <br> <br>
 
 <kbd>
   <img src="screenshots/game5.png">
-</kbd> <br>
-
+</kbd>
+ <br><br>
+ 
 **3.2. Slapping with the Tokats** <br>
 To apply a “slap” to the LeftTokat Player1 should press the “space” button. Player2 should press “enter” to slap the RightTokat. The second press for the keys will move the tokats to their initial positions.
 
@@ -104,7 +106,8 @@ This special events are:
 <br>
 <kbd>
   <img src="screenshots/game6.png">
-</kbd> <br> 
+</kbd>
+<br> <br> 
 
 &nbsp;&nbsp;&nbsp;**3.4.2 Score** <br>
 
