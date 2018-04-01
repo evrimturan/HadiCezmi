@@ -6,7 +6,7 @@
 **Group Name:**&nbsp;&nbsp;JusticeLeague<br>
 **Group Members:**&nbsp;&nbsp;Evrim Turan, Musa Çıbık, Mustafa Acıkaraoğlu, Mustafa Saraç<br>
 
-#### For more detailed questions, you can contact us at this email addresses: msarac13@ku.edu.tr || mcibik13@ku.edu.tr &nbsp;&nbsp;:email:
+#### For more questions, you can contact us at this email addresses: msarac13@ku.edu.tr || mcibik13@ku.edu.tr &nbsp;&nbsp;:email:
  
 ## DESCRIPTION
 HadiCezmi is a 2D arcade game which enables two players to play in competing manner. Players design game board by adding gizmos, rotating and/or deleting them in edit mode, and they play the game in running mode. Players can save and load the game configuration to and from an XML file. 
@@ -56,7 +56,7 @@ Type the player’s names to the appropriate space. Select the level, then click
 </kbd>
 
 **2.2. Placing A Gizmo** <br>
-Left-click the Gizmo type you want to place to the board. Mouse the mouse to the location you want to place the Gizmo. Left-click on the Gizmo to finish the process. Editing part of the board is marked with horizontal and vertical lines. Placing a Gizmo to the middle column is prohibited. Tokats occupy a square 2L by 2L. Firildak occupies a plus shaped 5 square2 polygon. <br> <br>
+Select the Gizmo type you want to place to the board by left clicking it. Move the mouse to the location you want to place the Gizmo. Left-click on the Gizmo to finish the process. Editing part of the board is marked with horizontal and vertical lines. Placing a Gizmo to the middle column is prohibited. Tokats occupy a square 2L by 2L. Firildak occupies a plus shaped 5 square2 polygon. <br> <br>
 <kbd>
   <img src="screenshots/game3.png">
 </kbd>
@@ -68,7 +68,7 @@ Middle-click on the Gizmo you want to apply 90 degree clockwise rotation.
 Right-click on the Gizmo you want to remove.
 
 **2.5. Moving A Gizmo** <br>
-Place the mouse on the Gizmo you want to move. Drag and drop the Gizmo to the its new location.
+Place the mouse on the Gizmo you want to move. Drag and drop the Gizmo to its new location.
 
 **2.6. Switch to Run Mode** <br>
 Click the “Start” button to switch to run mode. If every player has 4 Gizmos on their editing area, the game will switch to run mode. If this is not the case, the user will be asked to do so.
