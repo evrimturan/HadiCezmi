@@ -6,7 +6,7 @@
 **Group Name:**&nbsp;&nbsp;JusticeLeague<br>
 **Group Members:**&nbsp;&nbsp;Evrim Turan, Musa Çıbık, Mustafa Acıkaraoğlu, Mustafa Saraç<br>
 
-#### For more detailed questions, you can contact me at this email address: msarac13@ku.edu.tr mcibik14@ku.edu.tr &nbsp;&nbsp;:email:
+#### For more detailed questions, you can contact me at this email address: msarac13@ku.edu.tr mcibik13@ku.edu.tr &nbsp;&nbsp;:email:
  
 ## DESCRIPTION
 HadiCezmi is a 2D arcade game which enables two players to play in competing manner. Players design game board by adding gizmos, rotating and/or deleting them in edit mode, and they play the game in running mode. Players can save and load the game configuration to and from an XML file. 
